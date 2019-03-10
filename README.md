@@ -1,3 +1,6 @@
 # IP_Laborator
-Laboratorul de Ingineria Programarii.
-Laboratorul 4 din data de 4/10/2019.
+Ingineria Programarii
+Grupa: II B5
+Nume: Lupoae Eduard Valentin.
+
+Laboratorul 4 din data de 3/11/2019.
